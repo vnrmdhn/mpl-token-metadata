@@ -1,0 +1,27 @@
+{
+8 items
+key:
+4
+updateAuthority:
+"Gow2XfGbZKjMQJNqGiCPFGFaamQ76HRXgu3Yai8BmtnE"
+mint:
+"2tnn5ThhSGxLUYteEChPfY22NXen8sQ6ucxnMiYzpJNi"
+data:{4 items
+name:
+"King Baldwin IV"
+symbol:
+"KBWIN"
+uri:
+"https://ipfs.io/ipfs/QmQWQRVHQ7L8kojyjrTRuYkU5xqLsMeywF29cPe3qy2b97"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+255
+tokenStandard:
+2
+}
